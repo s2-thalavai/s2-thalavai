@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, welcome to my GitHub profile!
 
 <!--
 **s2-thalavai/s2-thalavai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
