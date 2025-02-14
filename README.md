@@ -1,10 +1,11 @@
 ## Hi there 👋, welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### About Me
+-----------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on Java and Javascript Based Microservice Development using Azure Cloud Services
 
-Technical Skills
+### Technical Skills
 -----------------------------------------------------------------------------------------------------------
 
  - 💻 Java (11, 17)
@@ -14,13 +15,15 @@ Technical Skills
  - 🛢️ NoSQL (MongoDB, AWS DynamoDB and Elastic Search)
   
  - 🛢️ SQL (PostgreSQL and AWS RDS Flavour, SQL Server and Azure SQL DB Flavour)
+   
+ -  💻 Messaging (Kafka, Azure Service Bus, SNS and SQS)
   
  - 🌍 Azure (Static Web App, Front Door, APIM, AKS, ACR, Azure Functions, App Config, Key Vault, Azure Service Bus, Azure Communication Service and Azure SQL DB) 
   
  - 🌍 AWS ( Lambda, S3, SNS, SQS, SES and AWS RDS PostgreSQL + DynamoDB)
   
 
-Contact Me
+### Contact Me
 -----------------------------------------------------------------------------------------------------------
 
 You can reach out to me on the following platforms:
