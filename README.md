@@ -15,8 +15,6 @@ Technical Skills
   
  - 🛢️ SQL (PostgreSQL and AWS RDS Flavour, SQL Server and Azure SQL DB Flavour)
   
- - 🌍 Microservices Architecture
-  
  - 🌍 Azure (Static Web App, Front Door, APIM, AKS, ACR, Azure Functions, App Config, Key Vault, Azure Service Bus, Azure Communication Service and Azure SQL DB) 
   
  - 🌍 AWS ( Lambda, S3, SNS, SQS, SES and AWS RDS PostgreSQL + DynamoDB)
