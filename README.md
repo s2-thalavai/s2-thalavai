@@ -8,7 +8,7 @@
 ### Technical Skills
 -----------------------------------------------------------------------------------------------------------
 
- - 💻 Java (11, 17), Python, and JavaScript
+ - 💻 Java (17, 21), JavaScript and Python
   
  - 💻 React JS
   
