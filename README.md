@@ -2,12 +2,6 @@
 
 ## About Me
 
-
-
-## Technical Skills
-
-## Technical Skills
-
 ##  Technical Skills
 
 |  Language               |  Backend           |  Frontend           |  Database             |  Search             |  AI & ML           |  Cloud       |  Others            |
