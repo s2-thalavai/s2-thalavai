@@ -26,6 +26,10 @@
 
 - cloud-agent-orchestrator: Azure Functions + Node.js agent framework for document workflows
 
+## Certifications:
+
+- AWS Certified Developer – Associate
+
 ## Contact Me
 
 You can reach out to me on the following platforms:
