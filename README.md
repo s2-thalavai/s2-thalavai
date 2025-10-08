@@ -6,9 +6,13 @@
 
 ## Technical Skills
 
-|  Language       |  Backend           |  Frontend           |  Database             |  Search         |  Cloud       |
-|--------------------|----------------------|------------------------|--------------------------|-------------------|----------------|
-| Java, JavaScript, Python   | Spring, FastAPI | React.js, TypeScript   | MongoDB, PostgreSQL      | Elasticsearch     | Azure, AWS     |
+## Technical Skills
+
+##  Technical Skills
+
+|  Language               |  Backend           |  Frontend           |  Database             |  Search             |  AI & ML           |  Cloud       |  Others            |
+|--------------------------|----------------------|------------------------|--------------------------|-----------------------|----------------------|----------------|----------------------|
+| Java, JavaScript, Python | Spring, FastAPI      | React.js, TypeScript   | MongoDB, PostgreSQL      | Elasticsearch         | Azure AI Services     | Azure, AWS     | Redis, Git, Docker, K8S   |
 
 ## What I Build
 
