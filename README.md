@@ -1,42 +1,34 @@
 ## Hi there 👋, welcome to my GitHub profile!
 
-### About Me
------------------------------------------------------------------------------------------------------------
+## About Me
 
-Over 8 years 8 months experienced, trained Software Engineer with a demonstrated history of working in the information technology and services industry. 
 
-• Skilled in Cloud-Native and Cloud-Agnostic Micro Services (Container Based (AWS EKS & AKS) & Event Based (Lambda with SQS, SNS, Event Bridge, Azure Fn with Azure Service Bus) ) development using Java, Spring Boot, Spring Webflux, graphQL, , JavaScript, React 16, Redux, Java 8, PostgreSQL, MongoDB and Redis. 
 
-• AWS Cloud Native Micro Services using Java and Spring Boot - AppSync, Lambda, RDS, Dynamo DB, Event Bridge, SNS, SES, SQS, and S3. 
+## Technical Skills
 
-• Azure Cloud Native Micro Services using Azure Fn, Azure Service Bus, Azure Document Intelligence, AI Search(Vector Store), Static Web App, Front Door, Key Vault, App Config, APIM, AKS, ACR, VNet, Subnet, VPN Gateway, Microsoft EntraID (OAuth2). 
+|  Language       |  Backend           |  Frontend           |  Database             |  Search         |  Cloud       |
+|--------------------|----------------------|------------------------|--------------------------|-------------------|----------------|
+| Java, JavaScript, Python   | Spring, FastAPI | React.js, TypeScript   | MongoDB, PostgreSQL      | Elasticsearch     | Azure, AWS     |
 
-. End to End AuthN & Authz approaches(OAuth2, OpenIDC) between multiple systems and apps across company using Microsoft EntraID and ForgeRock.
+## What I Build
 
-• CI/CD Pipeline Setup from scratch level using Jenkins with Quality gate creations on Sonar Cloud, Snyc in Linux (CentOS 7 and 8) environment. 
+- Document Intelligence Pipelines: Vendor onboarding, invoice validation, timesheet processing with AI agents + RAG
 
-• Strong engineering professional with a Master’s Degree focused on Computer Science from Manonmaniam Sundaranar University.
+- Modular Microservices: Streaming telemetry, audit trails, and compliance-first workflows
 
-### Technical Skills
------------------------------------------------------------------------------------------------------------
+- AI-Augmented Automation: orchestration, semantic extraction, contextual validation using Azure AI services
 
- - 💻 Java (17, 21) and Python
-  
- - 💻 React JS
-  
- - 🛢️ NoSQL (MongoDB, AWS DynamoDB and Elastic Search)
-  
- - 🛢️ SQL (PostgreSQL and AWS RDS Flavour, SQL Server and Azure SQL DB Flavour)
-   
- -  💻 Messaging (Kafka, Azure Service Bus, SNS and SQS)
-  
- - 🌍 Azure (Static Web App, Front Door, APIM, AKS, ACR, Azure Functions, App Config, Key Vault, Azure Service Bus, Azure Communication Service and Azure SQL DB) 
-  
- - 🌍 AWS ( Lambda, S3, SNS, SQS, SES and AWS RDS PostgreSQL + DynamoDB)
-  
+- CI/CD & Platform Engineering: Docker, Kubernetes, Jenkins, Terraform
 
-### Contact Me
------------------------------------------------------------------------------------------------------------
+## Featured Repositories
+
+- invoice-rag-pipeline: Hybrid AI + rules-based invoice validator with semantic traceability
+
+- react-onboarding-ui: Responsive React + Bootstrap UI scaffold for audit-friendly onboarding
+
+- cloud-agent-orchestrator: Azure Functions + Node.js agent framework for document workflows
+
+## Contact Me
 
 You can reach out to me on the following platforms:
 
