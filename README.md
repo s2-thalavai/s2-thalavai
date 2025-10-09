@@ -6,7 +6,7 @@
 
 |  Language               |  Backend           |  Frontend           |  Database             |  Search             |  AI & ML           |  Cloud       |  Others            |
 |--------------------------|----------------------|------------------------|--------------------------|-----------------------|----------------------|----------------|----------------------|
-| Java, JavaScript, Python | Spring, FastAPI      | React.js, TypeScript   | MongoDB, PostgreSQL      | Elasticsearch         | Azure AI Services     | Azure, AWS     | Redis, Git, Docker, K8S   |
+| Java, JavaScript, Python | Spring, FastAPI      | React.js, TypeScript   | MongoDB, PostgreSQL      | Elasticsearch         | Azure AI Services     | Azure, AWS     | Redis, Git, Docker, K8S, Keycloak, Azure AD, ForgeRock   |
 
 ## What I Build
 
