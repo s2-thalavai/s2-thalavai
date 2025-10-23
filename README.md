@@ -4,9 +4,9 @@
 
 ##  Technical Skills
 
-|  Language               |  Backend           |  Frontend           |  Database             |  Search             |  AI & ML           |  Cloud       |  Others            |
+|  Language               |  Backend           |  Frontend           |  Persistance & Caching             |  Search             |  AI & ML           |  Cloud       |  Others            |
 |--------------------------|----------------------|------------------------|--------------------------|-----------------------|----------------------|----------------|----------------------|
-| Java, Python | Spring, FastAPI      | React with JavaScript, React with TypeScript   | PostgreSQL, MongoDB      | Elasticsearch / OpenSearch        | Azure AI Services     | Azure, AWS     | Redis, Git, Docker, K8S, ELK and OTel, Jenkins, Keycloak, Azure AD, ForgeRock |
+| Java, Python | Spring, FastAPI      | React with JavaScript, React with TypeScript   | PostgreSQL, MongoDB, Redis      | Elasticsearch / OpenSearch        | Azure AI Services     | Azure, AWS     | Git, Docker, K8S, ELK and OTel, Jenkins, Keycloak, Azure AD, ForgeRock |
 
 ## What I Build
 
