@@ -6,7 +6,7 @@
 
 |  Language               |  Backend           |  Frontend           |  Persistance & Caching             |  Search             |  AI & ML           |  Cloud       |  Others            |
 |--------------------------|----------------------|------------------------|--------------------------|-----------------------|----------------------|----------------|----------------------|
-| Java, Go, Python | Spring Boot, Gin, Fast API      | React with TS   | PostgreSQL, MongoDB, Redis      | OpenSearch        | Azure AI Services     | Azure, AWS     | Git, Docker, K8S, ELK and OTel, Jenkins, Keycloak, Azure AD, ForgeRock |
+| Java, Go, Python | Spring Boot, Gin,      | React with TS   | PostgreSQL, MongoDB, Redis      | OpenSearch        | Azure AI Services     | Azure, AWS     | Git, Docker, K8S, ELK and OTel, Jenkins, Keycloak, Azure AD, ForgeRock |
 
 ## What I Build
 
