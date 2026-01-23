@@ -29,6 +29,8 @@
 ## Certifications:
 
 - AWS Certified Developer – Associate
+- Microsoft Certified: Azure Solutions Architect Expert 
+
 
 ## Contact Me
 
